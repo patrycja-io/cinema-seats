@@ -19,6 +19,7 @@ body {
     perspective: 1000px;
     margin-bottom: 30px;
 }
+
 .movie-container {
     margin: 20px 0;
 }
@@ -71,7 +72,7 @@ body {
 }
 
 .showcase {
-    background: (0, 0, 0, 0.1);
+    background: rgba(0, 0, 0, 0.1);
     padding: 5px 10px;
     border-radius: 5px;
     color: #777;
@@ -111,4 +112,3 @@ p.text {
 p.text span {
     color: #6feaf6;
 }
-
